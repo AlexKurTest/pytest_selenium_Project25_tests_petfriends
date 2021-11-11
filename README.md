@@ -1,0 +1,1 @@
+# pytest_selenium_Project25_tests_petfriends Этот проект является практикумом 25 модуля SkillFactory-QAP, в котором рассматривается серия тестов для учебного сайта http://petfriends1.herokuapp.com, c применением библиотеки Selenium, вебдрайвера Chrome, плагинов и других инструментов для поиска элементов  
